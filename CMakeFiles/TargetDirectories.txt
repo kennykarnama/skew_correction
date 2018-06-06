@@ -1,0 +1,3 @@
+/home/kenny/OpenCV subprograms/skew_correction/CMakeFiles/edit_cache.dir
+/home/kenny/OpenCV subprograms/skew_correction/CMakeFiles/rebuild_cache.dir
+/home/kenny/OpenCV subprograms/skew_correction/CMakeFiles/skew_correction.dir
